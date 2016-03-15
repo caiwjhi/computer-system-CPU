@@ -1,0 +1,8 @@
+V3 5
+FL C:/Users/Hp/Desktop/cpu/cpu.vhd 2015/11/30.20:57:59 P.20131013
+EN work/cpu 1448888346 FL C:/Users/Hp/Desktop/cpu/cpu.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/std_logic_arith 1381692177
+AR work/cpu/behavioral 1448888347 \
+      FL C:/Users/Hp/Desktop/cpu/cpu.vhd EN work/cpu 1448888346
+FL G:/cpu/cpu.vhd 2015/11/26.16:59:07 P.20131013
+FL G:/VHDL/cpu/cpu.vhd 2015/11/23.19:33:08 P.20131013
